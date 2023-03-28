@@ -1,10 +1,12 @@
-#include "main.h"
+#includ
+"main.h"
 
 /************************* PRINT CHAR *************************/
 
 /**
  * print_char - Prints a char
- * @types: List a of arguments
+ *by Misati and Njiru
+ @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
  * @width: Width
